@@ -4,3 +4,4 @@ seaborn
 shap
 matplotlib
 lightgbm
+IPython
