@@ -1,0 +1,6 @@
+pandas
+streamlit
+seaborn
+shap
+matplotlib
+lightgbm
